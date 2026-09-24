@@ -1,0 +1,1001 @@
+ID_Cancion,Titulo,Artista,Genero,Nivel_Energia,Duracion_Segundos,Reproducciones_Streaming
+TRK-0001,Canción Track_1,Karol G,Reggaeton/Urbano,79,237,158596.0
+TRK-0002,Canción Track_2,Los Prisioneros,Pop/Indie,85,137,652087.0
+TRK-0003,Canción Track_3,Bad Bunny,,26,141,542002.0
+TRK-0004,Canción Track_4,Karol G,Reggaeton/Urbano,63,291,23384.0
+TRK-0005,Canción Track_5,Los Prisioneros,Pop/Indie,57,279,508905.0
+TRK-0006,Canción Track_6,Rosalía,,77,192,1084604.0
+TRK-0007,Canción Track_7,Rosalía,Reggaeton/Urbano,62,187,1421794.0
+TRK-0008,Canción Track_8,Gepe,Salsa/Tropical,28,195,876018.0
+TRK-0009,Canción Track_9,Karol G,Pop/Indie,60,159,607444.0
+TRK-0010,Canción Track_10,Gepe,Rock,34,151,272138.0
+TRK-0011,Canción Track_11,Gepe,Reggaeton/Urbano,99,251,294695.0
+TRK-0012,Canción Track_12,Bad Bunny,Pop/Indie,94,263,233931.0
+TRK-0013,Canción Track_13,Los Prisioneros,Reggaeton/Urbano,37,138,1147015.0
+TRK-0014,Canción Track_14,Los Prisioneros,Salsa/Tropical,95,295,806227.0
+TRK-0015,Canción Track_15,Cami,Reggaeton/Urbano,59,293,945910.0
+TRK-0016,Canción Track_16,Aitana,Pop/Indie,70,160,720095.0
+TRK-0017,Canción Track_17,Duki,Pop/Indie,75,216,346126.0
+TRK-0018,Canción Track_18,Duki,Pop/Indie,43,162,53593.0
+TRK-0019,Canción Track_19,Gepe,Rock,30,284,708066.0
+TRK-0020,Canción Track_20,Duki,Salsa/Tropical,92,291,227202.0
+TRK-0021,Canción Track_21,Feid,Reggaeton/Urbano,97,160,354480.0
+TRK-0022,Canción Track_22,Los Prisioneros,Reggaeton/Urbano,29,188,63931.0
+TRK-0023,Canción Track_23,Los Prisioneros,Reggaeton/Urbano,31,299,672125.0
+TRK-0024,Canción Track_24,Karol G,Pop/Indie,54,162,627998.0
+TRK-0025,Canción Track_25,Duki,Reggaeton/Urbano,67,167,1472099.0
+TRK-0026,Canción Track_26,Cami,,86,188,555079.0
+TRK-0027,Canción Track_27,Duki,Reggaeton/Urbano,51,266,190049.0
+TRK-0028,Canción Track_28,Aitana,Reggaeton/Urbano,73,248,387519.0
+TRK-0029,Canción Track_29,Aitana,Pop/Indie,90,219,382788.0
+TRK-0030,Canción Track_30,Karol G,Rock,97,256,50315.0
+TRK-0031,Canción Track_31,Los Prisioneros,Salsa/Tropical,77,207,269705.0
+TRK-0032,Canción Track_32,Duki,Rock,58,219,290086.0
+TRK-0033,Canción Track_33,Bad Bunny,Pop/Indie,27,130,707022.0
+TRK-0034,Canción Track_34,Gepe,Pop/Indie,50,145,113021.0
+TRK-0035,Canción Track_35,Cami,Reggaeton/Urbano,42,265,497932.0
+TRK-0036,Canción Track_36,Los Prisioneros,Pop/Indie,45,251,1945501.0
+TRK-0037,Canción Track_37,Feid,Pop/Indie,81,130,21982.0
+TRK-0038,Canción Track_38,Duki,Pop/Indie,44,260,485844.0
+TRK-0039,Canción Track_39,Karol G,Reggaeton/Urbano,72,158,470309.0
+TRK-0040,Canción Track_40,Feid,Pop/Indie,99,203,769532.0
+TRK-0041,Canción Track_41,Aitana,Salsa/Tropical,83,175,26102.0
+TRK-0042,Canción Track_42,Aitana,Reggaeton/Urbano,47,208,138166.0
+TRK-0043,Canción Track_43,Aitana,Reggaeton/Urbano,54,172,918168.0
+TRK-0044,Canción Track_44,Duki,Reggaeton/Urbano,68,270,133283.0
+TRK-0045,Canción Track_45,Gepe,Reggaeton/Urbano,39,221,466622.0
+TRK-0046,Canción Track_46,Mon Laferte,Reggaeton/Urbano,76,206,957019.0
+TRK-0047,Canción Track_47,Cami,Rock,73,277,1066853.0
+TRK-0048,Canción Track_48,Mon Laferte,Rock,98,211,
+TRK-0049,Canción Track_49,Feid,Salsa/Tropical,48,283,1079007.0
+TRK-0050,Canción Track_50,Bad Bunny,Reggaeton/Urbano,76,206,433186.0
+TRK-0051,Canción Track_51,Aitana,Reggaeton/Urbano,22,183,201288.0
+TRK-0052,Canción Track_52,Los Prisioneros,,50,135,331472.0
+TRK-0053,Canción Track_53,Rosalía,Reggaeton/Urbano,40,188,991141.0
+TRK-0054,Canción Track_54,Aitana,Pop/Indie,83,124,358039.0
+TRK-0055,Canción Track_55,Rosalía,Reggaeton/Urbano,92,223,91567.0
+TRK-0056,Canción Track_56,Feid,Rock,25,278,576596.0
+TRK-0057,Canción Track_57,Rosalía,,78,276,330977.0
+TRK-0058,Canción Track_58,Mon Laferte,Pop/Indie,91,232,96466.0
+TRK-0059,Canción Track_59,Cami,Pop/Indie,30,145,151917.0
+TRK-0060,Canción Track_60,Rosalía,Rock,89,150,870136.0
+TRK-0061,Canción Track_61,Gepe,Rock,36,145,42801.0
+TRK-0062,Canción Track_62,Los Prisioneros,Pop/Indie,25,222,287999.0
+TRK-0063,Canción Track_63,Karol G,Pop/Indie,100,295,1322302.0
+TRK-0064,Canción Track_64,Feid,Reggaeton/Urbano,22,152,174768.0
+TRK-0065,Canción Track_65,Feid,,97,177,147257.0
+TRK-0066,Canción Track_66,Duki,Pop/Indie,73,225,883918.0
+TRK-0067,Canción Track_67,Aitana,Reggaeton/Urbano,36,158,595372.0
+TRK-0068,Canción Track_68,Aitana,Salsa/Tropical,52,245,492829.0
+TRK-0069,Canción Track_69,Gepe,Reggaeton/Urbano,45,239,1167302.0
+TRK-0070,Canción Track_70,Gepe,Reggaeton/Urbano,58,294,1192179.0
+TRK-0071,Canción Track_71,Aitana,Pop/Indie,46,256,76577.0
+TRK-0072,Canción Track_72,Rosalía,Pop/Indie,92,265,
+TRK-0073,Canción Track_73,Aitana,Pop/Indie,83,147,
+TRK-0074,Canción Track_74,Los Prisioneros,Pop/Indie,35,255,652881.0
+TRK-0075,Canción Track_75,Karol G,Reggaeton/Urbano,63,254,2336493.0
+TRK-0076,Canción Track_76,Feid,Rock,39,298,169776.0
+TRK-0077,Canción Track_77,Gepe,Reggaeton/Urbano,47,253,421096.0
+TRK-0078,Canción Track_78,Mon Laferte,Reggaeton/Urbano,99,126,293554.0
+TRK-0079,Canción Track_79,Cami,Salsa/Tropical,59,247,433497.0
+TRK-0080,Canción Track_80,Rosalía,Rock,56,286,592989.0
+TRK-0081,Canción Track_81,Feid,Reggaeton/Urbano,63,161,429092.0
+TRK-0082,Canción Track_82,Rosalía,Salsa/Tropical,96,147,142828.0
+TRK-0083,Canción Track_83,Los Prisioneros,Rock,57,124,172546.0
+TRK-0084,Canción Track_84,Cami,Salsa/Tropical,26,161,904888.0
+TRK-0085,Canción Track_85,Bad Bunny,Reggaeton/Urbano,69,159,1404447.0
+TRK-0086,Canción Track_86,Aitana,Reggaeton/Urbano,22,162,336203.0
+TRK-0087,Canción Track_87,Bad Bunny,Reggaeton/Urbano,39,131,142237.0
+TRK-0088,Canción Track_88,Rosalía,Salsa/Tropical,46,273,680564.0
+TRK-0089,Canción Track_89,Feid,Salsa/Tropical,45,146,376335.0
+TRK-0090,Canción Track_90,Aitana,Reggaeton/Urbano,90,241,245184.0
+TRK-0091,Canción Track_91,Cami,Pop/Indie,54,121,
+TRK-0092,Canción Track_92,Cami,,60,164,812251.0
+TRK-0093,Canción Track_93,Gepe,Rock,62,278,490660.0
+TRK-0094,Canción Track_94,Cami,Reggaeton/Urbano,22,134,377165.0
+TRK-0095,Canción Track_95,Bad Bunny,Pop/Indie,38,243,509604.0
+TRK-0096,Canción Track_96,Gepe,,86,129,692471.0
+TRK-0097,Canción Track_97,Los Prisioneros,Salsa/Tropical,61,208,40944.0
+TRK-0098,Canción Track_98,Rosalía,Pop/Indie,63,186,132335.0
+TRK-0099,Canción Track_99,Gepe,Salsa/Tropical,46,143,867306.0
+TRK-0100,Canción Track_100,Aitana,Reggaeton/Urbano,81,270,1102133.0
+TRK-0101,Canción Track_101,Cami,Salsa/Tropical,47,293,1065155.0
+TRK-0102,Canción Track_102,Bad Bunny,Reggaeton/Urbano,42,145,557076.0
+TRK-0103,Canción Track_103,Cami,Salsa/Tropical,42,127,174503.0
+TRK-0104,Canción Track_104,Feid,Pop/Indie,68,136,1228187.0
+TRK-0105,Canción Track_105,Duki,Reggaeton/Urbano,29,254,481217.0
+TRK-0106,Canción Track_106,Gepe,Pop/Indie,48,288,101024.0
+TRK-0107,Canción Track_107,Duki,Pop/Indie,73,194,379031.0
+TRK-0108,Canción Track_108,Aitana,Rock,100,281,706653.0
+TRK-0109,Canción Track_109,Karol G,Pop/Indie,70,147,300194.0
+TRK-0110,Canción Track_110,Aitana,Pop/Indie,92,171,373904.0
+TRK-0111,Canción Track_111,Duki,Salsa/Tropical,39,287,233392.0
+TRK-0112,Canción Track_112,Feid,Rock,27,124,747929.0
+TRK-0113,Canción Track_113,Feid,Pop/Indie,92,122,173100.0
+TRK-0114,Canción Track_114,Karol G,Rock,62,256,1601582.0
+TRK-0115,Canción Track_115,Feid,Salsa/Tropical,76,166,1338522.0
+TRK-0116,Canción Track_116,Cami,Reggaeton/Urbano,50,166,45225.0
+TRK-0117,Canción Track_117,Karol G,Pop/Indie,25,145,90156.0
+TRK-0118,Canción Track_118,Duki,Reggaeton/Urbano,46,159,78774.0
+TRK-0119,Canción Track_119,Rosalía,Salsa/Tropical,79,173,967078.0
+TRK-0120,Canción Track_120,Bad Bunny,Rock,100,293,811603.0
+TRK-0121,Canción Track_121,Cami,Rock,97,249,125867.0
+TRK-0122,Canción Track_122,Los Prisioneros,Pop/Indie,78,293,515457.0
+TRK-0123,Canción Track_123,Bad Bunny,Reggaeton/Urbano,80,120,26889.0
+TRK-0124,Canción Track_124,Mon Laferte,Salsa/Tropical,61,290,193192.0
+TRK-0125,Canción Track_125,Bad Bunny,Salsa/Tropical,72,194,1905191.0
+TRK-0126,Canción Track_126,Aitana,Salsa/Tropical,31,146,211188.0
+TRK-0127,Canción Track_127,Aitana,Reggaeton/Urbano,24,139,148606.0
+TRK-0128,Canción Track_128,Aitana,Reggaeton/Urbano,58,267,
+TRK-0129,Canción Track_129,Gepe,Pop/Indie,41,143,305425.0
+TRK-0130,Canción Track_130,Los Prisioneros,,100,270,167813.0
+TRK-0131,Canción Track_131,Gepe,Reggaeton/Urbano,67,143,292593.0
+TRK-0132,Canción Track_132,Feid,Pop/Indie,58,195,1574052.0
+TRK-0133,Canción Track_133,Feid,Rock,70,254,167411.0
+TRK-0134,Canción Track_134,Los Prisioneros,Rock,34,289,679473.0
+TRK-0135,Canción Track_135,Los Prisioneros,Pop/Indie,96,271,530282.0
+TRK-0136,Canción Track_136,Karol G,Pop/Indie,52,298,496730.0
+TRK-0137,Canción Track_137,Gepe,Rock,42,281,26063.0
+TRK-0138,Canción Track_138,Karol G,Reggaeton/Urbano,53,193,158994.0
+TRK-0139,Canción Track_139,Aitana,Reggaeton/Urbano,61,140,428746.0
+TRK-0140,Canción Track_140,Feid,Reggaeton/Urbano,86,243,239903.0
+TRK-0141,Canción Track_141,Cami,Rock,30,216,31300.0
+TRK-0142,Canción Track_142,Rosalía,Reggaeton/Urbano,38,124,3121830.0
+TRK-0143,Canción Track_143,Duki,Reggaeton/Urbano,26,140,492103.0
+TRK-0144,Canción Track_144,Bad Bunny,Reggaeton/Urbano,94,261,1065672.0
+TRK-0145,Canción Track_145,Bad Bunny,Salsa/Tropical,63,156,97217.0
+TRK-0146,Canción Track_146,Bad Bunny,Reggaeton/Urbano,68,280,1378706.0
+TRK-0147,Canción Track_147,Mon Laferte,Pop/Indie,89,232,19912.0
+TRK-0148,Canción Track_148,Karol G,Salsa/Tropical,28,265,2454469.0
+TRK-0149,Canción Track_149,Cami,Pop/Indie,59,291,213904.0
+TRK-0150,Canción Track_150,Bad Bunny,Pop/Indie,95,139,3296791.0
+TRK-0151,Canción Track_151,Los Prisioneros,Salsa/Tropical,55,227,620227.0
+TRK-0152,Canción Track_152,Los Prisioneros,Reggaeton/Urbano,38,287,
+TRK-0153,Canción Track_153,Mon Laferte,,42,295,715413.0
+TRK-0154,Canción Track_154,Bad Bunny,Reggaeton/Urbano,100,152,389955.0
+TRK-0155,Canción Track_155,Aitana,Rock,33,135,724349.0
+TRK-0156,Canción Track_156,Cami,Rock,22,272,431193.0
+TRK-0157,Canción Track_157,Rosalía,Rock,58,244,754952.0
+TRK-0158,Canción Track_158,Rosalía,Pop/Indie,39,247,545186.0
+TRK-0159,Canción Track_159,Cami,Salsa/Tropical,81,248,66837.0
+TRK-0160,Canción Track_160,Rosalía,Reggaeton/Urbano,62,168,1284846.0
+TRK-0161,Canción Track_161,Aitana,Reggaeton/Urbano,74,213,613371.0
+TRK-0162,Canción Track_162,Rosalía,Reggaeton/Urbano,33,226,1509645.0
+TRK-0163,Canción Track_163,Bad Bunny,Pop/Indie,51,280,1064053.0
+TRK-0164,Canción Track_164,Los Prisioneros,,44,245,376480.0
+TRK-0165,Canción Track_165,Feid,Rock,65,232,390835.0
+TRK-0166,Canción Track_166,Gepe,Reggaeton/Urbano,64,192,21561.0
+TRK-0167,Canción Track_167,Los Prisioneros,Salsa/Tropical,58,150,729892.0
+TRK-0168,Canción Track_168,Los Prisioneros,Reggaeton/Urbano,56,294,319730.0
+TRK-0169,Canción Track_169,Rosalía,Salsa/Tropical,26,298,660485.0
+TRK-0170,Canción Track_170,Mon Laferte,Pop/Indie,34,209,668447.0
+TRK-0171,Canción Track_171,Feid,Reggaeton/Urbano,72,299,28492.0
+TRK-0172,Canción Track_172,Karol G,Rock,22,259,387020.0
+TRK-0173,Canción Track_173,Mon Laferte,,26,249,305260.0
+TRK-0174,Canción Track_174,Mon Laferte,Reggaeton/Urbano,96,224,1729475.0
+TRK-0175,Canción Track_175,Rosalía,Reggaeton/Urbano,60,190,47718.0
+TRK-0176,Canción Track_176,Cami,Salsa/Tropical,90,265,53133.0
+TRK-0177,Canción Track_177,Duki,Salsa/Tropical,71,174,53341.0
+TRK-0178,Canción Track_178,Los Prisioneros,Rock,28,232,134656.0
+TRK-0179,Canción Track_179,Aitana,,93,248,52649.0
+TRK-0180,Canción Track_180,Los Prisioneros,Reggaeton/Urbano,52,184,262525.0
+TRK-0181,Canción Track_181,Mon Laferte,Reggaeton/Urbano,76,188,388552.0
+TRK-0182,Canción Track_182,Gepe,Reggaeton/Urbano,86,223,342423.0
+TRK-0183,Canción Track_183,Mon Laferte,Reggaeton/Urbano,59,207,1092843.0
+TRK-0184,Canción Track_184,Rosalía,Rock,54,265,763015.0
+TRK-0185,Canción Track_185,Duki,,88,276,28611.0
+TRK-0186,Canción Track_186,Los Prisioneros,Reggaeton/Urbano,20,223,785690.0
+TRK-0187,Canción Track_187,Feid,Reggaeton/Urbano,55,226,1311125.0
+TRK-0188,Canción Track_188,Duki,Reggaeton/Urbano,30,176,836928.0
+TRK-0189,Canción Track_189,Rosalía,,68,134,214736.0
+TRK-0190,Canción Track_190,Duki,Rock,78,152,471209.0
+TRK-0191,Canción Track_191,Los Prisioneros,Salsa/Tropical,51,221,209260.0
+TRK-0192,Canción Track_192,Duki,Reggaeton/Urbano,48,195,413726.0
+TRK-0193,Canción Track_193,Rosalía,Reggaeton/Urbano,86,157,1089135.0
+TRK-0194,Canción Track_194,Bad Bunny,Reggaeton/Urbano,98,137,20226.0
+TRK-0195,Canción Track_195,Gepe,,59,134,
+TRK-0196,Canción Track_196,Los Prisioneros,Pop/Indie,45,216,869398.0
+TRK-0197,Canción Track_197,Aitana,Reggaeton/Urbano,74,147,119139.0
+TRK-0198,Canción Track_198,Los Prisioneros,Reggaeton/Urbano,20,138,293259.0
+TRK-0199,Canción Track_199,Los Prisioneros,Reggaeton/Urbano,76,222,1331499.0
+TRK-0200,Canción Track_200,Aitana,Reggaeton/Urbano,21,213,313918.0
+TRK-0201,Canción Track_201,Duki,Reggaeton/Urbano,47,161,
+TRK-0202,Canción Track_202,Karol G,Salsa/Tropical,78,202,32884.0
+TRK-0203,Canción Track_203,Rosalía,Reggaeton/Urbano,36,248,404485.0
+TRK-0204,Canción Track_204,Bad Bunny,Reggaeton/Urbano,92,196,186278.0
+TRK-0205,Canción Track_205,Duki,Reggaeton/Urbano,56,224,734547.0
+TRK-0206,Canción Track_206,Bad Bunny,Salsa/Tropical,91,123,464382.0
+TRK-0207,Canción Track_207,Los Prisioneros,Salsa/Tropical,22,293,29910.0
+TRK-0208,Canción Track_208,Cami,Reggaeton/Urbano,70,203,672394.0
+TRK-0209,Canción Track_209,Cami,Rock,45,127,347481.0
+TRK-0210,Canción Track_210,Bad Bunny,Salsa/Tropical,28,140,845542.0
+TRK-0211,Canción Track_211,Los Prisioneros,Pop/Indie,51,141,141309.0
+TRK-0212,Canción Track_212,Mon Laferte,Pop/Indie,79,165,1044797.0
+TRK-0213,Canción Track_213,Mon Laferte,Pop/Indie,65,259,386542.0
+TRK-0214,Canción Track_214,Karol G,Reggaeton/Urbano,61,274,197309.0
+TRK-0215,Canción Track_215,Aitana,Reggaeton/Urbano,77,271,
+TRK-0216,Canción Track_216,Cami,Pop/Indie,32,181,
+TRK-0217,Canción Track_217,Feid,Pop/Indie,87,170,1290800.0
+TRK-0218,Canción Track_218,Los Prisioneros,Pop/Indie,34,138,338237.0
+TRK-0219,Canción Track_219,Gepe,Reggaeton/Urbano,68,286,324114.0
+TRK-0220,Canción Track_220,Rosalía,Reggaeton/Urbano,21,253,571603.0
+TRK-0221,Canción Track_221,Rosalía,Reggaeton/Urbano,59,207,492941.0
+TRK-0222,Canción Track_222,Cami,Salsa/Tropical,60,218,278169.0
+TRK-0223,Canción Track_223,Cami,Rock,88,192,1215308.0
+TRK-0224,Canción Track_224,Mon Laferte,Rock,70,255,956110.0
+TRK-0225,Canción Track_225,Feid,Reggaeton/Urbano,54,298,169254.0
+TRK-0226,Canción Track_226,Los Prisioneros,Reggaeton/Urbano,50,187,660208.0
+TRK-0227,Canción Track_227,Gepe,Pop/Indie,25,139,75105.0
+TRK-0228,Canción Track_228,Feid,Rock,62,249,115202.0
+TRK-0229,Canción Track_229,Cami,Pop/Indie,28,233,409107.0
+TRK-0230,Canción Track_230,Cami,Pop/Indie,99,246,327198.0
+TRK-0231,Canción Track_231,Aitana,Rock,64,274,731146.0
+TRK-0232,Canción Track_232,Aitana,Reggaeton/Urbano,83,247,359338.0
+TRK-0233,Canción Track_233,Bad Bunny,Reggaeton/Urbano,27,246,40861.0
+TRK-0234,Canción Track_234,Mon Laferte,Pop/Indie,46,242,30198.0
+TRK-0235,Canción Track_235,Gepe,Pop/Indie,99,145,128286.0
+TRK-0236,Canción Track_236,Duki,Pop/Indie,34,279,37605.0
+TRK-0237,Canción Track_237,Mon Laferte,Reggaeton/Urbano,98,242,1235051.0
+TRK-0238,Canción Track_238,Mon Laferte,Pop/Indie,56,299,57697.0
+TRK-0239,Canción Track_239,Bad Bunny,Pop/Indie,37,125,225534.0
+TRK-0240,Canción Track_240,Rosalía,Rock,29,213,487604.0
+TRK-0241,Canción Track_241,Feid,Pop/Indie,100,284,93561.0
+TRK-0242,Canción Track_242,Karol G,Reggaeton/Urbano,88,132,36742.0
+TRK-0243,Canción Track_243,Bad Bunny,Salsa/Tropical,25,217,67187.0
+TRK-0244,Canción Track_244,Aitana,Pop/Indie,81,181,103859.0
+TRK-0245,Canción Track_245,Karol G,Pop/Indie,66,259,640198.0
+TRK-0246,Canción Track_246,Feid,Reggaeton/Urbano,87,168,119948.0
+TRK-0247,Canción Track_247,Rosalía,Reggaeton/Urbano,43,265,1155577.0
+TRK-0248,Canción Track_248,Aitana,Rock,35,243,232150.0
+TRK-0249,Canción Track_249,Aitana,Reggaeton/Urbano,35,256,1004070.0
+TRK-0250,Canción Track_250,Los Prisioneros,,34,280,1123159.0
+TRK-0251,Canción Track_251,Aitana,Reggaeton/Urbano,97,263,158161.0
+TRK-0252,Canción Track_252,Duki,Reggaeton/Urbano,90,241,458763.0
+TRK-0253,Canción Track_253,Los Prisioneros,Rock,60,230,
+TRK-0254,Canción Track_254,Karol G,Rock,55,201,911993.0
+TRK-0255,Canción Track_255,Gepe,Salsa/Tropical,77,202,1203076.0
+TRK-0256,Canción Track_256,Duki,Reggaeton/Urbano,63,254,962193.0
+TRK-0257,Canción Track_257,Rosalía,Pop/Indie,93,219,518051.0
+TRK-0258,Canción Track_258,Duki,Salsa/Tropical,23,206,
+TRK-0259,Canción Track_259,Aitana,Pop/Indie,92,277,437288.0
+TRK-0260,Canción Track_260,Los Prisioneros,Salsa/Tropical,49,205,179096.0
+TRK-0261,Canción Track_261,Mon Laferte,Pop/Indie,95,197,577319.0
+TRK-0262,Canción Track_262,Duki,,92,255,459870.0
+TRK-0263,Canción Track_263,Bad Bunny,Reggaeton/Urbano,98,241,155262.0
+TRK-0264,Canción Track_264,Los Prisioneros,Salsa/Tropical,96,154,192817.0
+TRK-0265,Canción Track_265,Duki,Reggaeton/Urbano,76,166,61146.0
+TRK-0266,Canción Track_266,Karol G,Reggaeton/Urbano,73,215,526260.0
+TRK-0267,Canción Track_267,Feid,Reggaeton/Urbano,28,252,
+TRK-0268,Canción Track_268,Feid,Pop/Indie,59,266,386293.0
+TRK-0269,Canción Track_269,Aitana,Pop/Indie,70,205,671404.0
+TRK-0270,Canción Track_270,Rosalía,Pop/Indie,61,151,212347.0
+TRK-0271,Canción Track_271,Feid,Rock,25,292,427801.0
+TRK-0272,Canción Track_272,Karol G,Pop/Indie,68,291,798615.0
+TRK-0273,Canción Track_273,Aitana,Pop/Indie,70,268,1038241.0
+TRK-0274,Canción Track_274,Rosalía,Pop/Indie,84,295,856202.0
+TRK-0275,Canción Track_275,Mon Laferte,Reggaeton/Urbano,62,159,1793191.0
+TRK-0276,Canción Track_276,Cami,Pop/Indie,43,136,61136.0
+TRK-0277,Canción Track_277,Feid,Reggaeton/Urbano,26,289,190026.0
+TRK-0278,Canción Track_278,Aitana,Salsa/Tropical,52,125,188650.0
+TRK-0279,Canción Track_279,Aitana,Reggaeton/Urbano,35,181,399359.0
+TRK-0280,Canción Track_280,Aitana,Salsa/Tropical,83,260,586537.0
+TRK-0281,Canción Track_281,Gepe,Pop/Indie,49,147,282381.0
+TRK-0282,Canción Track_282,Aitana,Reggaeton/Urbano,68,235,999801.0
+TRK-0283,Canción Track_283,Aitana,Pop/Indie,64,257,146394.0
+TRK-0284,Canción Track_284,Bad Bunny,Pop/Indie,76,172,216412.0
+TRK-0285,Canción Track_285,Feid,,62,203,359214.0
+TRK-0286,Canción Track_286,Los Prisioneros,Reggaeton/Urbano,27,236,2299033.0
+TRK-0287,Canción Track_287,Mon Laferte,Pop/Indie,31,241,568106.0
+TRK-0288,Canción Track_288,Mon Laferte,Reggaeton/Urbano,81,246,330799.0
+TRK-0289,Canción Track_289,Bad Bunny,Pop/Indie,91,281,994521.0
+TRK-0290,Canción Track_290,Aitana,Reggaeton/Urbano,76,260,768223.0
+TRK-0291,Canción Track_291,Cami,Reggaeton/Urbano,86,159,669531.0
+TRK-0292,Canción Track_292,Los Prisioneros,Pop/Indie,48,231,360665.0
+TRK-0293,Canción Track_293,Los Prisioneros,Salsa/Tropical,32,226,19929.0
+TRK-0294,Canción Track_294,Karol G,Salsa/Tropical,92,129,845941.0
+TRK-0295,Canción Track_295,Feid,Pop/Indie,21,202,368025.0
+TRK-0296,Canción Track_296,Bad Bunny,Salsa/Tropical,26,201,438756.0
+TRK-0297,Canción Track_297,Mon Laferte,Reggaeton/Urbano,72,234,
+TRK-0298,Canción Track_298,Cami,Pop/Indie,69,285,206876.0
+TRK-0299,Canción Track_299,Feid,Rock,77,227,114086.0
+TRK-0300,Canción Track_300,Los Prisioneros,Reggaeton/Urbano,64,283,47444.0
+TRK-0301,Canción Track_301,Aitana,Pop/Indie,96,245,21580.0
+TRK-0302,Canción Track_302,Mon Laferte,Rock,79,290,1687686.0
+TRK-0303,Canción Track_303,Karol G,Salsa/Tropical,49,141,842702.0
+TRK-0304,Canción Track_304,Gepe,Rock,71,166,202637.0
+TRK-0305,Canción Track_305,Los Prisioneros,Reggaeton/Urbano,96,121,768269.0
+TRK-0306,Canción Track_306,Cami,Salsa/Tropical,77,240,173168.0
+TRK-0307,Canción Track_307,Feid,Rock,44,258,1247673.0
+TRK-0308,Canción Track_308,Rosalía,Rock,57,250,
+TRK-0309,Canción Track_309,Los Prisioneros,Rock,53,123,215501.0
+TRK-0310,Canción Track_310,Cami,Reggaeton/Urbano,45,242,1608716.0
+TRK-0311,Canción Track_311,Feid,Salsa/Tropical,61,249,
+TRK-0312,Canción Track_312,Cami,Pop/Indie,40,126,559830.0
+TRK-0313,Canción Track_313,Feid,Reggaeton/Urbano,43,194,181535.0
+TRK-0314,Canción Track_314,Rosalía,Pop/Indie,96,279,326082.0
+TRK-0315,Canción Track_315,Feid,Reggaeton/Urbano,32,226,107500.0
+TRK-0316,Canción Track_316,Duki,Reggaeton/Urbano,36,284,883165.0
+TRK-0317,Canción Track_317,Rosalía,Pop/Indie,53,269,160185.0
+TRK-0318,Canción Track_318,Cami,Reggaeton/Urbano,37,161,203917.0
+TRK-0319,Canción Track_319,Cami,Reggaeton/Urbano,29,157,443695.0
+TRK-0320,Canción Track_320,Duki,Pop/Indie,67,162,1114392.0
+TRK-0321,Canción Track_321,Cami,Salsa/Tropical,91,206,139516.0
+TRK-0322,Canción Track_322,Aitana,Pop/Indie,55,156,87908.0
+TRK-0323,Canción Track_323,Gepe,Reggaeton/Urbano,20,198,198936.0
+TRK-0324,Canción Track_324,Gepe,Reggaeton/Urbano,66,190,965556.0
+TRK-0325,Canción Track_325,Mon Laferte,Rock,97,295,730800.0
+TRK-0326,Canción Track_326,Cami,Pop/Indie,39,208,100892.0
+TRK-0327,Canción Track_327,Duki,Rock,29,280,773873.0
+TRK-0328,Canción Track_328,Mon Laferte,Pop/Indie,93,148,48726.0
+TRK-0329,Canción Track_329,Rosalía,Rock,45,120,208783.0
+TRK-0330,Canción Track_330,Gepe,Pop/Indie,97,176,962249.0
+TRK-0331,Canción Track_331,Mon Laferte,Rock,94,171,445739.0
+TRK-0332,Canción Track_332,Feid,Salsa/Tropical,70,164,
+TRK-0333,Canción Track_333,Bad Bunny,Rock,23,262,407485.0
+TRK-0334,Canción Track_334,Cami,Salsa/Tropical,37,220,369313.0
+TRK-0335,Canción Track_335,Los Prisioneros,Pop/Indie,57,236,
+TRK-0336,Canción Track_336,Aitana,Salsa/Tropical,22,161,49588.0
+TRK-0337,Canción Track_337,Mon Laferte,Reggaeton/Urbano,98,209,
+TRK-0338,Canción Track_338,Rosalía,,61,269,70080.0
+TRK-0339,Canción Track_339,Feid,Reggaeton/Urbano,27,238,1424718.0
+TRK-0340,Canción Track_340,Aitana,Reggaeton/Urbano,96,229,1001841.0
+TRK-0341,Canción Track_341,Gepe,Reggaeton/Urbano,22,179,122706.0
+TRK-0342,Canción Track_342,Gepe,Rock,71,252,
+TRK-0343,Canción Track_343,Cami,Rock,95,231,2162128.0
+TRK-0344,Canción Track_344,Cami,Salsa/Tropical,84,151,1454350.0
+TRK-0345,Canción Track_345,Rosalía,Pop/Indie,41,275,505152.0
+TRK-0346,Canción Track_346,Cami,Pop/Indie,91,179,107663.0
+TRK-0347,Canción Track_347,Bad Bunny,Reggaeton/Urbano,92,251,
+TRK-0348,Canción Track_348,Mon Laferte,Reggaeton/Urbano,56,242,138213.0
+TRK-0349,Canción Track_349,Gepe,Salsa/Tropical,37,199,235748.0
+TRK-0350,Canción Track_350,Los Prisioneros,Pop/Indie,97,268,1210499.0
+TRK-0351,Canción Track_351,Los Prisioneros,Reggaeton/Urbano,67,215,149716.0
+TRK-0352,Canción Track_352,Feid,Reggaeton/Urbano,88,244,197683.0
+TRK-0353,Canción Track_353,Gepe,Pop/Indie,45,156,1202749.0
+TRK-0354,Canción Track_354,Duki,Pop/Indie,25,216,254785.0
+TRK-0355,Canción Track_355,Cami,Pop/Indie,99,281,380655.0
+TRK-0356,Canción Track_356,Duki,Pop/Indie,57,150,36172.0
+TRK-0357,Canción Track_357,Duki,Pop/Indie,40,240,246147.0
+TRK-0358,Canción Track_358,Mon Laferte,Rock,84,200,597398.0
+TRK-0359,Canción Track_359,Rosalía,Pop/Indie,87,201,781327.0
+TRK-0360,Canción Track_360,Bad Bunny,Salsa/Tropical,62,282,862489.0
+TRK-0361,Canción Track_361,Rosalía,Reggaeton/Urbano,45,147,142236.0
+TRK-0362,Canción Track_362,Gepe,Pop/Indie,27,145,
+TRK-0363,Canción Track_363,Gepe,Reggaeton/Urbano,89,199,405708.0
+TRK-0364,Canción Track_364,Karol G,Pop/Indie,43,228,817736.0
+TRK-0365,Canción Track_365,Bad Bunny,Pop/Indie,27,286,2667559.0
+TRK-0366,Canción Track_366,Rosalía,Pop/Indie,73,196,728574.0
+TRK-0367,Canción Track_367,Duki,Reggaeton/Urbano,84,289,242063.0
+TRK-0368,Canción Track_368,Cami,Pop/Indie,45,144,134912.0
+TRK-0369,Canción Track_369,Duki,Pop/Indie,58,157,223629.0
+TRK-0370,Canción Track_370,Duki,Salsa/Tropical,65,154,53031.0
+TRK-0371,Canción Track_371,Rosalía,Salsa/Tropical,29,126,365698.0
+TRK-0372,Canción Track_372,Duki,Pop/Indie,32,254,994798.0
+TRK-0373,Canción Track_373,Bad Bunny,Reggaeton/Urbano,40,283,26431.0
+TRK-0374,Canción Track_374,Mon Laferte,Pop/Indie,80,297,478162.0
+TRK-0375,Canción Track_375,Rosalía,Reggaeton/Urbano,55,242,1228358.0
+TRK-0376,Canción Track_376,Los Prisioneros,Salsa/Tropical,56,209,53478.0
+TRK-0377,Canción Track_377,Los Prisioneros,Reggaeton/Urbano,50,181,338689.0
+TRK-0378,Canción Track_378,Duki,Salsa/Tropical,29,182,59071.0
+TRK-0379,Canción Track_379,Cami,Pop/Indie,57,129,617254.0
+TRK-0380,Canción Track_380,Bad Bunny,Reggaeton/Urbano,83,125,372137.0
+TRK-0381,Canción Track_381,Duki,Pop/Indie,56,200,896660.0
+TRK-0382,Canción Track_382,Feid,,91,259,345021.0
+TRK-0383,Canción Track_383,Cami,Rock,90,173,484270.0
+TRK-0384,Canción Track_384,Los Prisioneros,Salsa/Tropical,55,286,74595.0
+TRK-0385,Canción Track_385,Los Prisioneros,Pop/Indie,85,155,474608.0
+TRK-0386,Canción Track_386,Rosalía,Reggaeton/Urbano,62,172,49200.0
+TRK-0387,Canción Track_387,Mon Laferte,Reggaeton/Urbano,47,130,540544.0
+TRK-0388,Canción Track_388,Gepe,Rock,99,293,1034613.0
+TRK-0389,Canción Track_389,Rosalía,,40,230,160853.0
+TRK-0390,Canción Track_390,Cami,Rock,24,157,802160.0
+TRK-0391,Canción Track_391,Los Prisioneros,Salsa/Tropical,26,250,489629.0
+TRK-0392,Canción Track_392,Feid,Pop/Indie,83,299,233805.0
+TRK-0393,Canción Track_393,Duki,Reggaeton/Urbano,38,188,1171777.0
+TRK-0394,Canción Track_394,Cami,Pop/Indie,22,283,43236.0
+TRK-0395,Canción Track_395,Bad Bunny,Pop/Indie,31,273,1059626.0
+TRK-0396,Canción Track_396,Rosalía,Reggaeton/Urbano,77,186,
+TRK-0397,Canción Track_397,Aitana,Pop/Indie,96,217,680609.0
+TRK-0398,Canción Track_398,Rosalía,Reggaeton/Urbano,56,239,1303324.0
+TRK-0399,Canción Track_399,Duki,Salsa/Tropical,25,250,456559.0
+TRK-0400,Canción Track_400,Rosalía,Salsa/Tropical,52,247,
+TRK-0401,Canción Track_401,Cami,,74,233,12504.0
+TRK-0402,Canción Track_402,Gepe,Pop/Indie,39,245,1092067.0
+TRK-0403,Canción Track_403,Mon Laferte,Rock,45,159,1331643.0
+TRK-0404,Canción Track_404,Mon Laferte,Salsa/Tropical,25,287,161851.0
+TRK-0405,Canción Track_405,Los Prisioneros,Pop/Indie,89,156,303150.0
+TRK-0406,Canción Track_406,Mon Laferte,Reggaeton/Urbano,45,138,121493.0
+TRK-0407,Canción Track_407,Gepe,Reggaeton/Urbano,80,147,286006.0
+TRK-0408,Canción Track_408,Los Prisioneros,Reggaeton/Urbano,64,125,269445.0
+TRK-0409,Canción Track_409,Cami,Reggaeton/Urbano,98,289,189521.0
+TRK-0410,Canción Track_410,Rosalía,Salsa/Tropical,88,154,1838150.0
+TRK-0411,Canción Track_411,Aitana,Salsa/Tropical,93,277,209307.0
+TRK-0412,Canción Track_412,Gepe,Pop/Indie,38,209,735302.0
+TRK-0413,Canción Track_413,Feid,Reggaeton/Urbano,43,252,
+TRK-0414,Canción Track_414,Duki,Rock,28,171,145706.0
+TRK-0415,Canción Track_415,Feid,Pop/Indie,52,237,1137109.0
+TRK-0416,Canción Track_416,Aitana,Pop/Indie,35,196,230089.0
+TRK-0417,Canción Track_417,Karol G,Reggaeton/Urbano,85,212,637389.0
+TRK-0418,Canción Track_418,Aitana,Salsa/Tropical,82,200,2231155.0
+TRK-0419,Canción Track_419,Los Prisioneros,,95,251,639667.0
+TRK-0420,Canción Track_420,Mon Laferte,Reggaeton/Urbano,74,230,344932.0
+TRK-0421,Canción Track_421,Los Prisioneros,Reggaeton/Urbano,94,268,81399.0
+TRK-0422,Canción Track_422,Mon Laferte,Pop/Indie,62,177,270229.0
+TRK-0423,Canción Track_423,Cami,Salsa/Tropical,73,150,129555.0
+TRK-0424,Canción Track_424,Gepe,,59,211,283889.0
+TRK-0425,Canción Track_425,Karol G,Reggaeton/Urbano,95,227,2161788.0
+TRK-0426,Canción Track_426,Cami,Reggaeton/Urbano,79,221,276547.0
+TRK-0427,Canción Track_427,Los Prisioneros,Reggaeton/Urbano,40,237,814231.0
+TRK-0428,Canción Track_428,Bad Bunny,Pop/Indie,97,232,148201.0
+TRK-0429,Canción Track_429,Cami,Reggaeton/Urbano,84,131,2324584.0
+TRK-0430,Canción Track_430,Los Prisioneros,Pop/Indie,36,270,163203.0
+TRK-0431,Canción Track_431,Cami,Rock,72,168,547342.0
+TRK-0432,Canción Track_432,Gepe,Pop/Indie,48,242,1205232.0
+TRK-0433,Canción Track_433,Feid,Reggaeton/Urbano,92,189,325734.0
+TRK-0434,Canción Track_434,Aitana,Reggaeton/Urbano,22,211,375405.0
+TRK-0435,Canción Track_435,Feid,Pop/Indie,56,184,885208.0
+TRK-0436,Canción Track_436,Feid,Rock,89,167,132813.0
+TRK-0437,Canción Track_437,Los Prisioneros,Reggaeton/Urbano,63,194,257248.0
+TRK-0438,Canción Track_438,Bad Bunny,Rock,73,295,500603.0
+TRK-0439,Canción Track_439,Feid,Pop/Indie,20,164,710704.0
+TRK-0440,Canción Track_440,Karol G,Pop/Indie,98,131,512633.0
+TRK-0441,Canción Track_441,Los Prisioneros,Rock,61,279,269555.0
+TRK-0442,Canción Track_442,Duki,Pop/Indie,26,182,156121.0
+TRK-0443,Canción Track_443,Rosalía,Salsa/Tropical,97,276,262673.0
+TRK-0444,Canción Track_444,Duki,Pop/Indie,70,214,347625.0
+TRK-0445,Canción Track_445,Rosalía,Reggaeton/Urbano,24,226,1786986.0
+TRK-0446,Canción Track_446,Karol G,Reggaeton/Urbano,67,188,233876.0
+TRK-0447,Canción Track_447,Gepe,Reggaeton/Urbano,93,231,1010123.0
+TRK-0448,Canción Track_448,Aitana,,96,206,208011.0
+TRK-0449,Canción Track_449,Rosalía,Salsa/Tropical,23,160,252410.0
+TRK-0450,Canción Track_450,Feid,,85,267,94500.0
+TRK-0451,Canción Track_451,Los Prisioneros,Reggaeton/Urbano,48,262,308623.0
+TRK-0452,Canción Track_452,Bad Bunny,Rock,34,270,627149.0
+TRK-0453,Canción Track_453,Gepe,Rock,55,287,1216473.0
+TRK-0454,Canción Track_454,Duki,Rock,61,205,140196.0
+TRK-0455,Canción Track_455,Duki,Pop/Indie,82,294,615661.0
+TRK-0456,Canción Track_456,Aitana,Reggaeton/Urbano,95,151,214856.0
+TRK-0457,Canción Track_457,Aitana,Pop/Indie,48,295,903935.0
+TRK-0458,Canción Track_458,Bad Bunny,Pop/Indie,64,253,810519.0
+TRK-0459,Canción Track_459,Aitana,,72,180,206015.0
+TRK-0460,Canción Track_460,Los Prisioneros,Rock,95,234,1027881.0
+TRK-0461,Canción Track_461,Bad Bunny,Pop/Indie,60,133,348662.0
+TRK-0462,Canción Track_462,Rosalía,Salsa/Tropical,87,278,174481.0
+TRK-0463,Canción Track_463,Aitana,Pop/Indie,24,264,313297.0
+TRK-0464,Canción Track_464,Cami,Reggaeton/Urbano,91,223,213767.0
+TRK-0465,Canción Track_465,Aitana,Reggaeton/Urbano,36,218,308818.0
+TRK-0466,Canción Track_466,Mon Laferte,Reggaeton/Urbano,21,267,
+TRK-0467,Canción Track_467,Bad Bunny,Pop/Indie,75,251,359049.0
+TRK-0468,Canción Track_468,Mon Laferte,Pop/Indie,24,266,215173.0
+TRK-0469,Canción Track_469,Bad Bunny,Reggaeton/Urbano,24,201,459151.0
+TRK-0470,Canción Track_470,Bad Bunny,Reggaeton/Urbano,93,150,964527.0
+TRK-0471,Canción Track_471,Mon Laferte,Pop/Indie,73,270,760642.0
+TRK-0472,Canción Track_472,Aitana,Reggaeton/Urbano,88,226,171575.0
+TRK-0473,Canción Track_473,Karol G,Rock,53,155,1257342.0
+TRK-0474,Canción Track_474,Duki,Reggaeton/Urbano,30,255,522153.0
+TRK-0475,Canción Track_475,Los Prisioneros,Pop/Indie,76,222,407078.0
+TRK-0476,Canción Track_476,Gepe,Salsa/Tropical,77,143,580889.0
+TRK-0477,Canción Track_477,Mon Laferte,Pop/Indie,63,296,546610.0
+TRK-0478,Canción Track_478,Karol G,Salsa/Tropical,72,210,1036877.0
+TRK-0479,Canción Track_479,Mon Laferte,Salsa/Tropical,45,243,154030.0
+TRK-0480,Canción Track_480,Gepe,Reggaeton/Urbano,74,171,
+TRK-0481,Canción Track_481,Los Prisioneros,Reggaeton/Urbano,34,276,1734771.0
+TRK-0482,Canción Track_482,Bad Bunny,Pop/Indie,47,266,
+TRK-0483,Canción Track_483,Feid,Pop/Indie,86,273,140517.0
+TRK-0484,Canción Track_484,Aitana,Reggaeton/Urbano,47,193,
+TRK-0485,Canción Track_485,Aitana,Reggaeton/Urbano,44,243,330760.0
+TRK-0486,Canción Track_486,Duki,Reggaeton/Urbano,84,281,1471987.0
+TRK-0487,Canción Track_487,Bad Bunny,Rock,77,215,25769.0
+TRK-0488,Canción Track_488,Los Prisioneros,Pop/Indie,54,249,380812.0
+TRK-0489,Canción Track_489,Duki,Salsa/Tropical,25,133,113289.0
+TRK-0490,Canción Track_490,Gepe,Rock,96,229,267560.0
+TRK-0491,Canción Track_491,Los Prisioneros,,61,162,488029.0
+TRK-0492,Canción Track_492,Rosalía,Pop/Indie,44,292,495692.0
+TRK-0493,Canción Track_493,Rosalía,Pop/Indie,80,193,3787620.0
+TRK-0494,Canción Track_494,Rosalía,Rock,66,222,672838.0
+TRK-0495,Canción Track_495,Los Prisioneros,Pop/Indie,30,267,297040.0
+TRK-0496,Canción Track_496,Rosalía,Pop/Indie,42,198,318840.0
+TRK-0497,Canción Track_497,Cami,,81,216,2256990.0
+TRK-0498,Canción Track_498,Karol G,Reggaeton/Urbano,76,180,37864.0
+TRK-0499,Canción Track_499,Bad Bunny,Reggaeton/Urbano,75,208,442669.0
+TRK-0500,Canción Track_500,Rosalía,,29,235,229766.0
+TRK-0501,Canción Track_501,Bad Bunny,Salsa/Tropical,35,193,861623.0
+TRK-0502,Canción Track_502,Feid,Rock,97,252,2041245.0
+TRK-0503,Canción Track_503,Bad Bunny,Rock,28,169,
+TRK-0504,Canción Track_504,Feid,Rock,27,144,
+TRK-0505,Canción Track_505,Gepe,Salsa/Tropical,84,289,224205.0
+TRK-0506,Canción Track_506,Cami,Reggaeton/Urbano,44,211,145002.0
+TRK-0507,Canción Track_507,Mon Laferte,Pop/Indie,76,240,889917.0
+TRK-0508,Canción Track_508,Feid,Reggaeton/Urbano,79,196,172449.0
+TRK-0509,Canción Track_509,Los Prisioneros,Pop/Indie,87,281,61743.0
+TRK-0510,Canción Track_510,Karol G,Rock,51,268,126245.0
+TRK-0511,Canción Track_511,Rosalía,Salsa/Tropical,66,214,459654.0
+TRK-0512,Canción Track_512,Mon Laferte,Salsa/Tropical,77,180,586865.0
+TRK-0513,Canción Track_513,Feid,Reggaeton/Urbano,77,154,48613.0
+TRK-0514,Canción Track_514,Karol G,Reggaeton/Urbano,69,254,1226046.0
+TRK-0515,Canción Track_515,Rosalía,Pop/Indie,86,184,1363660.0
+TRK-0516,Canción Track_516,Los Prisioneros,,60,194,92972.0
+TRK-0517,Canción Track_517,Los Prisioneros,Reggaeton/Urbano,67,168,564358.0
+TRK-0518,Canción Track_518,Feid,Pop/Indie,21,137,3245326.0
+TRK-0519,Canción Track_519,Aitana,Salsa/Tropical,40,188,
+TRK-0520,Canción Track_520,Bad Bunny,Pop/Indie,27,165,899013.0
+TRK-0521,Canción Track_521,Bad Bunny,Salsa/Tropical,45,168,867570.0
+TRK-0522,Canción Track_522,Rosalía,Pop/Indie,56,159,1649394.0
+TRK-0523,Canción Track_523,Gepe,Salsa/Tropical,38,248,83786.0
+TRK-0524,Canción Track_524,Cami,Reggaeton/Urbano,46,163,714444.0
+TRK-0525,Canción Track_525,Los Prisioneros,Reggaeton/Urbano,37,170,183164.0
+TRK-0526,Canción Track_526,Gepe,Rock,39,213,1196065.0
+TRK-0527,Canción Track_527,Karol G,Pop/Indie,92,153,73344.0
+TRK-0528,Canción Track_528,Bad Bunny,Pop/Indie,59,195,200151.0
+TRK-0529,Canción Track_529,Gepe,Rock,58,157,187578.0
+TRK-0530,Canción Track_530,Gepe,Pop/Indie,52,211,1541180.0
+TRK-0531,Canción Track_531,Los Prisioneros,Pop/Indie,32,162,286450.0
+TRK-0532,Canción Track_532,Bad Bunny,Reggaeton/Urbano,45,182,
+TRK-0533,Canción Track_533,Los Prisioneros,Reggaeton/Urbano,64,286,430751.0
+TRK-0534,Canción Track_534,Karol G,Pop/Indie,92,157,27152.0
+TRK-0535,Canción Track_535,Gepe,Pop/Indie,97,249,2067070.0
+TRK-0536,Canción Track_536,Feid,Reggaeton/Urbano,74,281,407226.0
+TRK-0537,Canción Track_537,Aitana,Pop/Indie,31,263,474154.0
+TRK-0538,Canción Track_538,Duki,Rock,63,244,998091.0
+TRK-0539,Canción Track_539,Aitana,Salsa/Tropical,64,170,540793.0
+TRK-0540,Canción Track_540,Los Prisioneros,Rock,50,227,192364.0
+TRK-0541,Canción Track_541,Mon Laferte,Salsa/Tropical,91,175,
+TRK-0542,Canción Track_542,Feid,Pop/Indie,81,120,385269.0
+TRK-0543,Canción Track_543,Bad Bunny,Salsa/Tropical,75,164,221165.0
+TRK-0544,Canción Track_544,Gepe,Pop/Indie,44,203,1778523.0
+TRK-0545,Canción Track_545,Duki,Reggaeton/Urbano,39,234,929057.0
+TRK-0546,Canción Track_546,Rosalía,,32,188,1070729.0
+TRK-0547,Canción Track_547,Cami,Pop/Indie,90,263,139772.0
+TRK-0548,Canción Track_548,Aitana,Reggaeton/Urbano,66,263,37421.0
+TRK-0549,Canción Track_549,Aitana,Reggaeton/Urbano,95,186,97483.0
+TRK-0550,Canción Track_550,Gepe,Rock,37,232,415857.0
+TRK-0551,Canción Track_551,Gepe,Reggaeton/Urbano,51,291,520215.0
+TRK-0552,Canción Track_552,Cami,Pop/Indie,25,212,58017.0
+TRK-0553,Canción Track_553,Feid,Rock,36,237,299462.0
+TRK-0554,Canción Track_554,Karol G,Salsa/Tropical,68,249,1187685.0
+TRK-0555,Canción Track_555,Cami,Rock,85,267,75120.0
+TRK-0556,Canción Track_556,Gepe,Salsa/Tropical,99,260,20966.0
+TRK-0557,Canción Track_557,Karol G,,28,165,191187.0
+TRK-0558,Canción Track_558,Gepe,Reggaeton/Urbano,25,261,231804.0
+TRK-0559,Canción Track_559,Duki,Pop/Indie,85,220,
+TRK-0560,Canción Track_560,Bad Bunny,Rock,59,173,65982.0
+TRK-0561,Canción Track_561,Gepe,Reggaeton/Urbano,20,140,206201.0
+TRK-0562,Canción Track_562,Bad Bunny,,74,291,101014.0
+TRK-0563,Canción Track_563,Karol G,Rock,24,225,1277152.0
+TRK-0564,Canción Track_564,Gepe,Salsa/Tropical,94,188,26921.0
+TRK-0565,Canción Track_565,Duki,Reggaeton/Urbano,34,159,77096.0
+TRK-0566,Canción Track_566,Gepe,Rock,45,276,337724.0
+TRK-0567,Canción Track_567,Gepe,Pop/Indie,53,127,
+TRK-0568,Canción Track_568,Karol G,Salsa/Tropical,49,138,161161.0
+TRK-0569,Canción Track_569,Karol G,Pop/Indie,34,164,128018.0
+TRK-0570,Canción Track_570,Mon Laferte,Reggaeton/Urbano,49,155,612658.0
+TRK-0571,Canción Track_571,Karol G,Pop/Indie,52,200,453331.0
+TRK-0572,Canción Track_572,Duki,Reggaeton/Urbano,81,226,217995.0
+TRK-0573,Canción Track_573,Rosalía,Rock,24,147,159368.0
+TRK-0574,Canción Track_574,Cami,Rock,42,163,886498.0
+TRK-0575,Canción Track_575,Gepe,Pop/Indie,26,240,899707.0
+TRK-0576,Canción Track_576,Duki,Pop/Indie,48,244,206942.0
+TRK-0577,Canción Track_577,Feid,Pop/Indie,26,288,734136.0
+TRK-0578,Canción Track_578,Duki,Pop/Indie,37,174,418481.0
+TRK-0579,Canción Track_579,Gepe,Reggaeton/Urbano,94,164,1127416.0
+TRK-0580,Canción Track_580,Los Prisioneros,Pop/Indie,61,232,1339190.0
+TRK-0581,Canción Track_581,Karol G,Reggaeton/Urbano,45,193,382193.0
+TRK-0582,Canción Track_582,Cami,Pop/Indie,26,196,259010.0
+TRK-0583,Canción Track_583,Duki,Rock,69,166,
+TRK-0584,Canción Track_584,Cami,Reggaeton/Urbano,79,277,245852.0
+TRK-0585,Canción Track_585,Cami,Rock,59,135,147450.0
+TRK-0586,Canción Track_586,Feid,Pop/Indie,32,261,93356.0
+TRK-0587,Canción Track_587,Bad Bunny,Reggaeton/Urbano,98,176,751947.0
+TRK-0588,Canción Track_588,Bad Bunny,Salsa/Tropical,61,258,527579.0
+TRK-0589,Canción Track_589,Karol G,Pop/Indie,76,293,1198278.0
+TRK-0590,Canción Track_590,Karol G,Rock,23,208,275787.0
+TRK-0591,Canción Track_591,Duki,Pop/Indie,81,209,168858.0
+TRK-0592,Canción Track_592,Bad Bunny,Reggaeton/Urbano,55,281,92274.0
+TRK-0593,Canción Track_593,Bad Bunny,Pop/Indie,24,205,78091.0
+TRK-0594,Canción Track_594,Duki,Reggaeton/Urbano,89,269,660323.0
+TRK-0595,Canción Track_595,Feid,Salsa/Tropical,79,189,168402.0
+TRK-0596,Canción Track_596,Karol G,Pop/Indie,82,179,397534.0
+TRK-0597,Canción Track_597,Cami,Reggaeton/Urbano,83,206,468528.0
+TRK-0598,Canción Track_598,Los Prisioneros,Salsa/Tropical,83,134,685827.0
+TRK-0599,Canción Track_599,Karol G,Pop/Indie,24,183,561380.0
+TRK-0600,Canción Track_600,Feid,Salsa/Tropical,57,130,1015351.0
+TRK-0601,Canción Track_601,Karol G,Pop/Indie,68,159,165236.0
+TRK-0602,Canción Track_602,Los Prisioneros,Salsa/Tropical,61,251,226632.0
+TRK-0603,Canción Track_603,Duki,Reggaeton/Urbano,83,184,311720.0
+TRK-0604,Canción Track_604,Mon Laferte,Reggaeton/Urbano,93,274,327220.0
+TRK-0605,Canción Track_605,Cami,Pop/Indie,73,248,101803.0
+TRK-0606,Canción Track_606,Duki,Salsa/Tropical,81,213,478672.0
+TRK-0607,Canción Track_607,Rosalía,Reggaeton/Urbano,62,124,29258.0
+TRK-0608,Canción Track_608,Karol G,Pop/Indie,55,270,34066.0
+TRK-0609,Canción Track_609,Rosalía,Reggaeton/Urbano,91,272,1348075.0
+TRK-0610,Canción Track_610,Los Prisioneros,Reggaeton/Urbano,28,280,234045.0
+TRK-0611,Canción Track_611,Bad Bunny,Reggaeton/Urbano,71,145,
+TRK-0612,Canción Track_612,Duki,Reggaeton/Urbano,77,244,810981.0
+TRK-0613,Canción Track_613,Los Prisioneros,Reggaeton/Urbano,33,275,985811.0
+TRK-0614,Canción Track_614,Mon Laferte,Pop/Indie,86,164,233016.0
+TRK-0615,Canción Track_615,Feid,Pop/Indie,23,283,958077.0
+TRK-0616,Canción Track_616,Mon Laferte,Rock,77,277,25980.0
+TRK-0617,Canción Track_617,Rosalía,Reggaeton/Urbano,88,249,73997.0
+TRK-0618,Canción Track_618,Duki,Salsa/Tropical,39,212,393821.0
+TRK-0619,Canción Track_619,Mon Laferte,Reggaeton/Urbano,29,225,53082.0
+TRK-0620,Canción Track_620,Karol G,Rock,23,207,458000.0
+TRK-0621,Canción Track_621,Feid,,65,204,1150746.0
+TRK-0622,Canción Track_622,Duki,Rock,27,272,643525.0
+TRK-0623,Canción Track_623,Mon Laferte,Pop/Indie,25,138,189359.0
+TRK-0624,Canción Track_624,Karol G,Pop/Indie,96,160,193896.0
+TRK-0625,Canción Track_625,Rosalía,Rock,64,282,345095.0
+TRK-0626,Canción Track_626,Feid,Pop/Indie,68,181,319551.0
+TRK-0627,Canción Track_627,Bad Bunny,Salsa/Tropical,29,225,62720.0
+TRK-0628,Canción Track_628,Los Prisioneros,Salsa/Tropical,75,136,402837.0
+TRK-0629,Canción Track_629,Feid,Pop/Indie,40,229,1883506.0
+TRK-0630,Canción Track_630,Duki,Salsa/Tropical,50,122,142483.0
+TRK-0631,Canción Track_631,Karol G,Reggaeton/Urbano,51,223,159497.0
+TRK-0632,Canción Track_632,Duki,Reggaeton/Urbano,30,192,316389.0
+TRK-0633,Canción Track_633,Aitana,Reggaeton/Urbano,52,229,1643936.0
+TRK-0634,Canción Track_634,Feid,Pop/Indie,76,172,384072.0
+TRK-0635,Canción Track_635,Feid,Pop/Indie,28,275,151879.0
+TRK-0636,Canción Track_636,Los Prisioneros,Pop/Indie,60,248,190425.0
+TRK-0637,Canción Track_637,Cami,Pop/Indie,45,233,283661.0
+TRK-0638,Canción Track_638,Duki,Salsa/Tropical,71,226,265092.0
+TRK-0639,Canción Track_639,Karol G,Reggaeton/Urbano,45,161,297319.0
+TRK-0640,Canción Track_640,Mon Laferte,Salsa/Tropical,55,136,368164.0
+TRK-0641,Canción Track_641,Los Prisioneros,Pop/Indie,49,259,713098.0
+TRK-0642,Canción Track_642,Gepe,Reggaeton/Urbano,31,271,207125.0
+TRK-0643,Canción Track_643,Cami,Salsa/Tropical,94,291,534054.0
+TRK-0644,Canción Track_644,Gepe,Pop/Indie,53,265,191112.0
+TRK-0645,Canción Track_645,Cami,Rock,27,203,380132.0
+TRK-0646,Canción Track_646,Karol G,Pop/Indie,93,296,1429383.0
+TRK-0647,Canción Track_647,Rosalía,Rock,65,154,194627.0
+TRK-0648,Canción Track_648,Feid,Pop/Indie,34,271,227336.0
+TRK-0649,Canción Track_649,Rosalía,Pop/Indie,62,234,27292.0
+TRK-0650,Canción Track_650,Bad Bunny,Pop/Indie,69,161,55356.0
+TRK-0651,Canción Track_651,Aitana,Pop/Indie,74,267,1176119.0
+TRK-0652,Canción Track_652,Feid,Salsa/Tropical,26,292,147176.0
+TRK-0653,Canción Track_653,Cami,Salsa/Tropical,47,143,336575.0
+TRK-0654,Canción Track_654,Mon Laferte,Salsa/Tropical,82,130,578976.0
+TRK-0655,Canción Track_655,Cami,Pop/Indie,81,120,611247.0
+TRK-0656,Canción Track_656,Los Prisioneros,Rock,85,129,26984.0
+TRK-0657,Canción Track_657,Rosalía,Pop/Indie,50,218,
+TRK-0658,Canción Track_658,Rosalía,Reggaeton/Urbano,82,230,1119041.0
+TRK-0659,Canción Track_659,Duki,Pop/Indie,84,223,150812.0
+TRK-0660,Canción Track_660,Aitana,Reggaeton/Urbano,75,157,1012695.0
+TRK-0661,Canción Track_661,Rosalía,Pop/Indie,60,219,1792271.0
+TRK-0662,Canción Track_662,Duki,Salsa/Tropical,65,188,446197.0
+TRK-0663,Canción Track_663,Aitana,,84,227,
+TRK-0664,Canción Track_664,Cami,Reggaeton/Urbano,88,154,86222.0
+TRK-0665,Canción Track_665,Karol G,Rock,22,184,40270.0
+TRK-0666,Canción Track_666,Cami,Reggaeton/Urbano,61,141,154758.0
+TRK-0667,Canción Track_667,Rosalía,Reggaeton/Urbano,21,199,100101.0
+TRK-0668,Canción Track_668,Bad Bunny,,81,237,334857.0
+TRK-0669,Canción Track_669,Rosalía,Reggaeton/Urbano,33,165,127507.0
+TRK-0670,Canción Track_670,Mon Laferte,Reggaeton/Urbano,90,228,231176.0
+TRK-0671,Canción Track_671,Bad Bunny,Pop/Indie,91,236,559257.0
+TRK-0672,Canción Track_672,Rosalía,Reggaeton/Urbano,42,131,194498.0
+TRK-0673,Canción Track_673,Rosalía,Salsa/Tropical,77,143,1768926.0
+TRK-0674,Canción Track_674,Feid,Pop/Indie,68,189,406853.0
+TRK-0675,Canción Track_675,Feid,Pop/Indie,93,255,53955.0
+TRK-0676,Canción Track_676,Bad Bunny,Pop/Indie,39,212,1115713.0
+TRK-0677,Canción Track_677,Aitana,Pop/Indie,88,125,97486.0
+TRK-0678,Canción Track_678,Gepe,Pop/Indie,65,286,432981.0
+TRK-0679,Canción Track_679,Rosalía,Pop/Indie,81,242,4415710.0
+TRK-0680,Canción Track_680,Bad Bunny,Salsa/Tropical,43,193,165870.0
+TRK-0681,Canción Track_681,Rosalía,Reggaeton/Urbano,79,168,211966.0
+TRK-0682,Canción Track_682,Gepe,Pop/Indie,99,280,
+TRK-0683,Canción Track_683,Duki,Reggaeton/Urbano,65,253,830298.0
+TRK-0684,Canción Track_684,Cami,Reggaeton/Urbano,43,179,759166.0
+TRK-0685,Canción Track_685,Mon Laferte,Pop/Indie,55,256,81978.0
+TRK-0686,Canción Track_686,Gepe,Pop/Indie,84,147,989649.0
+TRK-0687,Canción Track_687,Los Prisioneros,Reggaeton/Urbano,90,150,1826630.0
+TRK-0688,Canción Track_688,Gepe,Pop/Indie,89,220,438371.0
+TRK-0689,Canción Track_689,Cami,Reggaeton/Urbano,36,199,825207.0
+TRK-0690,Canción Track_690,Aitana,Pop/Indie,37,246,899079.0
+TRK-0691,Canción Track_691,Duki,Reggaeton/Urbano,41,179,118998.0
+TRK-0692,Canción Track_692,Karol G,Pop/Indie,80,200,610486.0
+TRK-0693,Canción Track_693,Karol G,Pop/Indie,83,197,879991.0
+TRK-0694,Canción Track_694,Karol G,Reggaeton/Urbano,71,140,586693.0
+TRK-0695,Canción Track_695,Rosalía,Rock,31,286,67762.0
+TRK-0696,Canción Track_696,Bad Bunny,Reggaeton/Urbano,27,261,
+TRK-0697,Canción Track_697,Rosalía,Reggaeton/Urbano,36,205,489167.0
+TRK-0698,Canción Track_698,Duki,Reggaeton/Urbano,49,125,308832.0
+TRK-0699,Canción Track_699,Karol G,Reggaeton/Urbano,50,166,52519.0
+TRK-0700,Canción Track_700,Rosalía,Reggaeton/Urbano,85,162,591308.0
+TRK-0701,Canción Track_701,Rosalía,Reggaeton/Urbano,38,161,1456253.0
+TRK-0702,Canción Track_702,Mon Laferte,Rock,44,243,106467.0
+TRK-0703,Canción Track_703,Mon Laferte,Reggaeton/Urbano,79,176,553703.0
+TRK-0704,Canción Track_704,Aitana,,93,189,713450.0
+TRK-0705,Canción Track_705,Aitana,Pop/Indie,72,141,36290.0
+TRK-0706,Canción Track_706,Mon Laferte,Pop/Indie,44,234,470303.0
+TRK-0707,Canción Track_707,Rosalía,Salsa/Tropical,74,224,
+TRK-0708,Canción Track_708,Duki,Reggaeton/Urbano,55,172,822563.0
+TRK-0709,Canción Track_709,Mon Laferte,Pop/Indie,29,183,554468.0
+TRK-0710,Canción Track_710,Gepe,Pop/Indie,56,124,734254.0
+TRK-0711,Canción Track_711,Karol G,Salsa/Tropical,76,265,245554.0
+TRK-0712,Canción Track_712,Duki,Reggaeton/Urbano,43,156,47807.0
+TRK-0713,Canción Track_713,Feid,Salsa/Tropical,86,278,1973142.0
+TRK-0714,Canción Track_714,Rosalía,Reggaeton/Urbano,44,171,1049007.0
+TRK-0715,Canción Track_715,Cami,Reggaeton/Urbano,98,216,152734.0
+TRK-0716,Canción Track_716,Karol G,Pop/Indie,89,127,251189.0
+TRK-0717,Canción Track_717,Cami,Pop/Indie,91,269,60786.0
+TRK-0718,Canción Track_718,Gepe,Pop/Indie,44,158,886090.0
+TRK-0719,Canción Track_719,Aitana,Reggaeton/Urbano,90,273,954452.0
+TRK-0720,Canción Track_720,Karol G,Pop/Indie,79,181,1748605.0
+TRK-0721,Canción Track_721,Bad Bunny,Pop/Indie,46,233,416983.0
+TRK-0722,Canción Track_722,Gepe,Salsa/Tropical,91,157,484767.0
+TRK-0723,Canción Track_723,Feid,Pop/Indie,52,143,549513.0
+TRK-0724,Canción Track_724,Rosalía,Rock,61,192,820081.0
+TRK-0725,Canción Track_725,Karol G,Pop/Indie,84,144,634228.0
+TRK-0726,Canción Track_726,Rosalía,Pop/Indie,21,204,
+TRK-0727,Canción Track_727,Gepe,Pop/Indie,23,205,1017020.0
+TRK-0728,Canción Track_728,Feid,Salsa/Tropical,22,137,14908.0
+TRK-0729,Canción Track_729,Cami,Salsa/Tropical,47,143,344999.0
+TRK-0730,Canción Track_730,Feid,Rock,68,131,487235.0
+TRK-0731,Canción Track_731,Mon Laferte,Reggaeton/Urbano,82,248,1228033.0
+TRK-0732,Canción Track_732,Mon Laferte,Reggaeton/Urbano,38,149,126588.0
+TRK-0733,Canción Track_733,Aitana,Pop/Indie,47,258,13004.0
+TRK-0734,Canción Track_734,Gepe,Rock,54,298,363889.0
+TRK-0735,Canción Track_735,Duki,Rock,89,221,770582.0
+TRK-0736,Canción Track_736,Karol G,Pop/Indie,94,271,507619.0
+TRK-0737,Canción Track_737,Karol G,Pop/Indie,57,280,368465.0
+TRK-0738,Canción Track_738,Feid,Pop/Indie,80,276,134296.0
+TRK-0739,Canción Track_739,Aitana,Pop/Indie,32,154,161520.0
+TRK-0740,Canción Track_740,Gepe,Reggaeton/Urbano,30,272,850789.0
+TRK-0741,Canción Track_741,Rosalía,Pop/Indie,95,150,1112806.0
+TRK-0742,Canción Track_742,Aitana,Salsa/Tropical,61,179,434949.0
+TRK-0743,Canción Track_743,Duki,Salsa/Tropical,42,127,184981.0
+TRK-0744,Canción Track_744,Cami,Salsa/Tropical,23,246,198522.0
+TRK-0745,Canción Track_745,Rosalía,Pop/Indie,77,259,167347.0
+TRK-0746,Canción Track_746,Gepe,Pop/Indie,60,277,712860.0
+TRK-0747,Canción Track_747,Karol G,Reggaeton/Urbano,38,176,71824.0
+TRK-0748,Canción Track_748,Rosalía,Salsa/Tropical,29,290,1489402.0
+TRK-0749,Canción Track_749,Gepe,Salsa/Tropical,75,204,1085243.0
+TRK-0750,Canción Track_750,Karol G,Reggaeton/Urbano,74,186,729489.0
+TRK-0751,Canción Track_751,Karol G,Reggaeton/Urbano,74,208,224180.0
+TRK-0752,Canción Track_752,Gepe,Reggaeton/Urbano,94,127,3716428.0
+TRK-0753,Canción Track_753,Rosalía,Pop/Indie,43,199,724427.0
+TRK-0754,Canción Track_754,Feid,,85,158,318497.0
+TRK-0755,Canción Track_755,Cami,Reggaeton/Urbano,55,236,603445.0
+TRK-0756,Canción Track_756,Mon Laferte,Salsa/Tropical,70,261,478252.0
+TRK-0757,Canción Track_757,Feid,Salsa/Tropical,20,270,218292.0
+TRK-0758,Canción Track_758,Karol G,Reggaeton/Urbano,60,169,224717.0
+TRK-0759,Canción Track_759,Los Prisioneros,,85,291,906843.0
+TRK-0760,Canción Track_760,Cami,Pop/Indie,66,281,2171301.0
+TRK-0761,Canción Track_761,Aitana,Pop/Indie,27,256,957514.0
+TRK-0762,Canción Track_762,Rosalía,Pop/Indie,55,276,
+TRK-0763,Canción Track_763,Karol G,Rock,44,219,757034.0
+TRK-0764,Canción Track_764,Feid,Salsa/Tropical,79,232,384259.0
+TRK-0765,Canción Track_765,Gepe,Rock,63,151,390272.0
+TRK-0766,Canción Track_766,Mon Laferte,Reggaeton/Urbano,70,250,475834.0
+TRK-0767,Canción Track_767,Mon Laferte,Pop/Indie,92,191,230066.0
+TRK-0768,Canción Track_768,Karol G,Reggaeton/Urbano,21,214,1833715.0
+TRK-0769,Canción Track_769,Karol G,Pop/Indie,69,170,77599.0
+TRK-0770,Canción Track_770,Bad Bunny,Reggaeton/Urbano,28,273,351026.0
+TRK-0771,Canción Track_771,Cami,Pop/Indie,95,259,346668.0
+TRK-0772,Canción Track_772,Cami,Rock,72,258,392451.0
+TRK-0773,Canción Track_773,Gepe,Reggaeton/Urbano,93,136,1247701.0
+TRK-0774,Canción Track_774,Rosalía,Reggaeton/Urbano,88,174,400279.0
+TRK-0775,Canción Track_775,Bad Bunny,Rock,71,174,1857939.0
+TRK-0776,Canción Track_776,Karol G,Rock,22,199,144726.0
+TRK-0777,Canción Track_777,Duki,Pop/Indie,49,188,207954.0
+TRK-0778,Canción Track_778,Karol G,Pop/Indie,20,183,857189.0
+TRK-0779,Canción Track_779,Mon Laferte,Pop/Indie,70,293,1055316.0
+TRK-0780,Canción Track_780,Gepe,Rock,89,220,926507.0
+TRK-0781,Canción Track_781,Cami,Pop/Indie,75,120,51221.0
+TRK-0782,Canción Track_782,Karol G,Pop/Indie,70,266,31764.0
+TRK-0783,Canción Track_783,Duki,Salsa/Tropical,75,289,133498.0
+TRK-0784,Canción Track_784,Feid,Reggaeton/Urbano,23,146,271499.0
+TRK-0785,Canción Track_785,Aitana,Salsa/Tropical,38,256,1042302.0
+TRK-0786,Canción Track_786,Duki,Reggaeton/Urbano,88,231,58721.0
+TRK-0787,Canción Track_787,Gepe,Reggaeton/Urbano,26,194,348599.0
+TRK-0788,Canción Track_788,Bad Bunny,Reggaeton/Urbano,36,254,
+TRK-0789,Canción Track_789,Rosalía,Reggaeton/Urbano,91,173,191901.0
+TRK-0790,Canción Track_790,Duki,Reggaeton/Urbano,24,256,160750.0
+TRK-0791,Canción Track_791,Duki,Pop/Indie,49,178,1262189.0
+TRK-0792,Canción Track_792,Mon Laferte,Rock,99,221,
+TRK-0793,Canción Track_793,Mon Laferte,Rock,98,163,666563.0
+TRK-0794,Canción Track_794,Los Prisioneros,Rock,73,169,1232872.0
+TRK-0795,Canción Track_795,Mon Laferte,Pop/Indie,70,220,401775.0
+TRK-0796,Canción Track_796,Bad Bunny,Pop/Indie,34,281,1110144.0
+TRK-0797,Canción Track_797,Feid,Rock,20,238,175600.0
+TRK-0798,Canción Track_798,Bad Bunny,Rock,28,232,844020.0
+TRK-0799,Canción Track_799,Bad Bunny,Pop/Indie,75,167,435578.0
+TRK-0800,Canción Track_800,Cami,Rock,96,195,668273.0
+TRK-0801,Canción Track_801,Bad Bunny,Rock,96,236,1946662.0
+TRK-0802,Canción Track_802,Rosalía,Pop/Indie,39,258,1219833.0
+TRK-0803,Canción Track_803,Los Prisioneros,Rock,90,262,27355.0
+TRK-0804,Canción Track_804,Karol G,Pop/Indie,70,264,111811.0
+TRK-0805,Canción Track_805,Rosalía,Pop/Indie,50,157,378083.0
+TRK-0806,Canción Track_806,Aitana,Pop/Indie,38,223,1070615.0
+TRK-0807,Canción Track_807,Cami,Pop/Indie,25,182,305597.0
+TRK-0808,Canción Track_808,Los Prisioneros,Salsa/Tropical,36,148,304836.0
+TRK-0809,Canción Track_809,Los Prisioneros,Rock,99,217,571583.0
+TRK-0810,Canción Track_810,Los Prisioneros,Rock,73,162,495331.0
+TRK-0811,Canción Track_811,Cami,Rock,82,120,448219.0
+TRK-0812,Canción Track_812,Aitana,Rock,22,245,
+TRK-0813,Canción Track_813,Rosalía,Reggaeton/Urbano,55,216,19694.0
+TRK-0814,Canción Track_814,Karol G,Reggaeton/Urbano,95,201,
+TRK-0815,Canción Track_815,Los Prisioneros,Rock,79,219,748777.0
+TRK-0816,Canción Track_816,Bad Bunny,Reggaeton/Urbano,39,228,114638.0
+TRK-0817,Canción Track_817,Feid,Reggaeton/Urbano,86,131,822118.0
+TRK-0818,Canción Track_818,Karol G,Salsa/Tropical,40,201,
+TRK-0819,Canción Track_819,Los Prisioneros,Pop/Indie,98,296,107256.0
+TRK-0820,Canción Track_820,Gepe,Pop/Indie,76,246,
+TRK-0821,Canción Track_821,Cami,Reggaeton/Urbano,36,126,22127.0
+TRK-0822,Canción Track_822,Bad Bunny,Reggaeton/Urbano,30,284,693831.0
+TRK-0823,Canción Track_823,Bad Bunny,Reggaeton/Urbano,27,131,1694687.0
+TRK-0824,Canción Track_824,Mon Laferte,,72,184,
+TRK-0825,Canción Track_825,Los Prisioneros,Salsa/Tropical,63,204,99234.0
+TRK-0826,Canción Track_826,Mon Laferte,Pop/Indie,86,220,720847.0
+TRK-0827,Canción Track_827,Karol G,Pop/Indie,51,171,567869.0
+TRK-0828,Canción Track_828,Aitana,Reggaeton/Urbano,21,275,905963.0
+TRK-0829,Canción Track_829,Los Prisioneros,Pop/Indie,54,269,10672.0
+TRK-0830,Canción Track_830,Duki,Rock,57,187,207300.0
+TRK-0831,Canción Track_831,Aitana,Reggaeton/Urbano,24,299,232591.0
+TRK-0832,Canción Track_832,Mon Laferte,Reggaeton/Urbano,73,180,289582.0
+TRK-0833,Canción Track_833,Duki,Pop/Indie,33,187,793639.0
+TRK-0834,Canción Track_834,Feid,Pop/Indie,82,269,693462.0
+TRK-0835,Canción Track_835,Gepe,Salsa/Tropical,51,173,331890.0
+TRK-0836,Canción Track_836,Feid,Reggaeton/Urbano,98,178,23342.0
+TRK-0837,Canción Track_837,Cami,,78,155,2170081.0
+TRK-0838,Canción Track_838,Gepe,Pop/Indie,48,206,88601.0
+TRK-0839,Canción Track_839,Aitana,Pop/Indie,75,131,70527.0
+TRK-0840,Canción Track_840,Cami,Reggaeton/Urbano,42,153,19662.0
+TRK-0841,Canción Track_841,Cami,Reggaeton/Urbano,75,256,125630.0
+TRK-0842,Canción Track_842,Rosalía,Pop/Indie,33,299,124345.0
+TRK-0843,Canción Track_843,Los Prisioneros,Salsa/Tropical,73,166,607774.0
+TRK-0844,Canción Track_844,Feid,Pop/Indie,85,176,406555.0
+TRK-0845,Canción Track_845,Feid,Pop/Indie,63,164,568154.0
+TRK-0846,Canción Track_846,Karol G,Pop/Indie,65,165,787176.0
+TRK-0847,Canción Track_847,Karol G,Pop/Indie,46,171,224920.0
+TRK-0848,Canción Track_848,Mon Laferte,Salsa/Tropical,46,298,1498189.0
+TRK-0849,Canción Track_849,Los Prisioneros,Reggaeton/Urbano,67,290,223385.0
+TRK-0850,Canción Track_850,Karol G,Pop/Indie,51,245,1025439.0
+TRK-0851,Canción Track_851,Bad Bunny,Pop/Indie,77,237,71204.0
+TRK-0852,Canción Track_852,Mon Laferte,,96,128,909259.0
+TRK-0853,Canción Track_853,Duki,Salsa/Tropical,34,278,514158.0
+TRK-0854,Canción Track_854,Bad Bunny,Pop/Indie,22,262,109847.0
+TRK-0855,Canción Track_855,Feid,Reggaeton/Urbano,51,152,664916.0
+TRK-0856,Canción Track_856,Cami,Reggaeton/Urbano,66,285,315822.0
+TRK-0857,Canción Track_857,Los Prisioneros,Reggaeton/Urbano,83,261,764588.0
+TRK-0858,Canción Track_858,Gepe,Reggaeton/Urbano,58,222,25011.0
+TRK-0859,Canción Track_859,Bad Bunny,Pop/Indie,60,258,419777.0
+TRK-0860,Canción Track_860,Los Prisioneros,Reggaeton/Urbano,63,165,241838.0
+TRK-0861,Canción Track_861,Gepe,Rock,50,183,1495155.0
+TRK-0862,Canción Track_862,Karol G,Reggaeton/Urbano,56,243,742219.0
+TRK-0863,Canción Track_863,Los Prisioneros,Rock,34,271,110832.0
+TRK-0864,Canción Track_864,Duki,Rock,91,135,45174.0
+TRK-0865,Canción Track_865,Cami,Reggaeton/Urbano,67,210,38024.0
+TRK-0866,Canción Track_866,Mon Laferte,Rock,39,284,330948.0
+TRK-0867,Canción Track_867,Karol G,Pop/Indie,92,260,124395.0
+TRK-0868,Canción Track_868,Feid,,78,151,286991.0
+TRK-0869,Canción Track_869,Bad Bunny,Reggaeton/Urbano,22,235,327288.0
+TRK-0870,Canción Track_870,Rosalía,Pop/Indie,49,277,565412.0
+TRK-0871,Canción Track_871,Mon Laferte,Pop/Indie,95,241,318385.0
+TRK-0872,Canción Track_872,Feid,Pop/Indie,98,176,391315.0
+TRK-0873,Canción Track_873,Mon Laferte,Salsa/Tropical,55,299,639654.0
+TRK-0874,Canción Track_874,Aitana,Reggaeton/Urbano,88,172,281458.0
+TRK-0875,Canción Track_875,Karol G,Reggaeton/Urbano,25,270,273847.0
+TRK-0876,Canción Track_876,Los Prisioneros,Pop/Indie,74,238,35888.0
+TRK-0877,Canción Track_877,Mon Laferte,Rock,88,191,773603.0
+TRK-0878,Canción Track_878,Karol G,Pop/Indie,70,296,721027.0
+TRK-0879,Canción Track_879,Feid,Rock,50,206,931550.0
+TRK-0880,Canción Track_880,Karol G,Reggaeton/Urbano,92,269,402326.0
+TRK-0881,Canción Track_881,Duki,Pop/Indie,74,242,241042.0
+TRK-0882,Canción Track_882,Aitana,Reggaeton/Urbano,41,143,326371.0
+TRK-0883,Canción Track_883,Rosalía,Pop/Indie,28,247,668663.0
+TRK-0884,Canción Track_884,Duki,,30,267,199968.0
+TRK-0885,Canción Track_885,Cami,Reggaeton/Urbano,82,134,232133.0
+TRK-0886,Canción Track_886,Aitana,Reggaeton/Urbano,87,249,37079.0
+TRK-0887,Canción Track_887,Mon Laferte,Reggaeton/Urbano,77,193,371750.0
+TRK-0888,Canción Track_888,Karol G,Reggaeton/Urbano,54,251,614687.0
+TRK-0889,Canción Track_889,Duki,Salsa/Tropical,81,221,283172.0
+TRK-0890,Canción Track_890,Feid,Salsa/Tropical,50,162,945563.0
+TRK-0891,Canción Track_891,Gepe,Reggaeton/Urbano,66,275,260052.0
+TRK-0892,Canción Track_892,Karol G,Pop/Indie,57,177,670963.0
+TRK-0893,Canción Track_893,Aitana,Rock,88,278,57543.0
+TRK-0894,Canción Track_894,Rosalía,Rock,34,152,361543.0
+TRK-0895,Canción Track_895,Aitana,,71,128,455050.0
+TRK-0896,Canción Track_896,Duki,Pop/Indie,36,286,69857.0
+TRK-0897,Canción Track_897,Los Prisioneros,Pop/Indie,56,222,79736.0
+TRK-0898,Canción Track_898,Cami,Pop/Indie,65,138,266278.0
+TRK-0899,Canción Track_899,Los Prisioneros,Pop/Indie,73,186,44676.0
+TRK-0900,Canción Track_900,Bad Bunny,Salsa/Tropical,36,199,76225.0
+TRK-0901,Canción Track_901,Mon Laferte,Reggaeton/Urbano,84,170,2613368.0
+TRK-0902,Canción Track_902,Duki,Reggaeton/Urbano,48,142,51334.0
+TRK-0903,Canción Track_903,Rosalía,Reggaeton/Urbano,83,140,528698.0
+TRK-0904,Canción Track_904,Cami,Reggaeton/Urbano,55,236,288228.0
+TRK-0905,Canción Track_905,Los Prisioneros,Salsa/Tropical,48,279,674662.0
+TRK-0906,Canción Track_906,Cami,Reggaeton/Urbano,36,141,1612880.0
+TRK-0907,Canción Track_907,Los Prisioneros,Salsa/Tropical,62,148,1209889.0
+TRK-0908,Canción Track_908,Cami,Pop/Indie,98,182,855805.0
+TRK-0909,Canción Track_909,Bad Bunny,,75,126,263456.0
+TRK-0910,Canción Track_910,Karol G,Rock,68,201,194546.0
+TRK-0911,Canción Track_911,Rosalía,Rock,38,285,369702.0
+TRK-0912,Canción Track_912,Feid,Pop/Indie,42,269,
+TRK-0913,Canción Track_913,Mon Laferte,Rock,32,220,507431.0
+TRK-0914,Canción Track_914,Cami,Reggaeton/Urbano,59,160,66314.0
+TRK-0915,Canción Track_915,Gepe,Rock,100,173,358349.0
+TRK-0916,Canción Track_916,Feid,,59,184,13517.0
+TRK-0917,Canción Track_917,Cami,Pop/Indie,20,126,784880.0
+TRK-0918,Canción Track_918,Karol G,Pop/Indie,68,237,35775.0
+TRK-0919,Canción Track_919,Karol G,Salsa/Tropical,82,144,1840481.0
+TRK-0920,Canción Track_920,Duki,Reggaeton/Urbano,88,183,1451743.0
+TRK-0921,Canción Track_921,Cami,Rock,41,223,392325.0
+TRK-0922,Canción Track_922,Mon Laferte,Salsa/Tropical,78,241,835362.0
+TRK-0923,Canción Track_923,Karol G,Reggaeton/Urbano,91,122,1167191.0
+TRK-0924,Canción Track_924,Bad Bunny,Rock,77,206,968244.0
+TRK-0925,Canción Track_925,Rosalía,Rock,79,217,420192.0
+TRK-0926,Canción Track_926,Feid,Reggaeton/Urbano,20,280,752336.0
+TRK-0927,Canción Track_927,Karol G,Salsa/Tropical,45,203,86725.0
+TRK-0928,Canción Track_928,Duki,Salsa/Tropical,53,147,264259.0
+TRK-0929,Canción Track_929,Bad Bunny,Reggaeton/Urbano,79,228,3182456.0
+TRK-0930,Canción Track_930,Los Prisioneros,Pop/Indie,67,173,369192.0
+TRK-0931,Canción Track_931,Aitana,Rock,83,124,191878.0
+TRK-0932,Canción Track_932,Karol G,Pop/Indie,88,210,559456.0
+TRK-0933,Canción Track_933,Gepe,Salsa/Tropical,77,173,195201.0
+TRK-0934,Canción Track_934,Feid,Reggaeton/Urbano,73,236,180608.0
+TRK-0935,Canción Track_935,Los Prisioneros,Salsa/Tropical,71,131,377505.0
+TRK-0936,Canción Track_936,Duki,Reggaeton/Urbano,46,226,356768.0
+TRK-0937,Canción Track_937,Aitana,Pop/Indie,83,141,51505.0
+TRK-0938,Canción Track_938,Cami,Rock,23,219,418043.0
+TRK-0939,Canción Track_939,Rosalía,Reggaeton/Urbano,91,232,72223.0
+TRK-0940,Canción Track_940,Mon Laferte,Pop/Indie,78,193,210001.0
+TRK-0941,Canción Track_941,Mon Laferte,Reggaeton/Urbano,55,250,283431.0
+TRK-0942,Canción Track_942,Duki,Reggaeton/Urbano,57,146,97518.0
+TRK-0943,Canción Track_943,Cami,Rock,89,257,16681.0
+TRK-0944,Canción Track_944,Rosalía,,31,220,476507.0
+TRK-0945,Canción Track_945,Feid,Pop/Indie,23,271,73700.0
+TRK-0946,Canción Track_946,Mon Laferte,Reggaeton/Urbano,38,258,119537.0
+TRK-0947,Canción Track_947,Duki,Pop/Indie,32,137,598077.0
+TRK-0948,Canción Track_948,Cami,,68,247,104506.0
+TRK-0949,Canción Track_949,Cami,Salsa/Tropical,72,255,515445.0
+TRK-0950,Canción Track_950,Mon Laferte,Rock,65,147,51225.0
+TRK-0951,Canción Track_951,Karol G,Salsa/Tropical,65,178,267005.0
+TRK-0952,Canción Track_952,Mon Laferte,Pop/Indie,45,122,306097.0
+TRK-0953,Canción Track_953,Bad Bunny,Reggaeton/Urbano,22,134,854470.0
+TRK-0954,Canción Track_954,Mon Laferte,Salsa/Tropical,53,190,59742.0
+TRK-0955,Canción Track_955,Mon Laferte,Reggaeton/Urbano,65,282,1176930.0
+TRK-0956,Canción Track_956,Los Prisioneros,Reggaeton/Urbano,50,262,1111944.0
+TRK-0957,Canción Track_957,Feid,Pop/Indie,70,235,185767.0
+TRK-0958,Canción Track_958,Mon Laferte,Salsa/Tropical,82,200,225233.0
+TRK-0959,Canción Track_959,Duki,Reggaeton/Urbano,97,147,1777903.0
+TRK-0960,Canción Track_960,Mon Laferte,Reggaeton/Urbano,55,284,569245.0
+TRK-0961,Canción Track_961,Mon Laferte,Reggaeton/Urbano,77,244,897253.0
+TRK-0962,Canción Track_962,Cami,Pop/Indie,80,178,330169.0
+TRK-0963,Canción Track_963,Karol G,Rock,80,236,274046.0
+TRK-0964,Canción Track_964,Cami,Pop/Indie,96,272,273287.0
+TRK-0965,Canción Track_965,Rosalía,Reggaeton/Urbano,22,229,529440.0
+TRK-0966,Canción Track_966,Duki,Reggaeton/Urbano,43,247,351399.0
+TRK-0967,Canción Track_967,Duki,Pop/Indie,38,234,746167.0
+TRK-0968,Canción Track_968,Aitana,Rock,38,205,523021.0
+TRK-0969,Canción Track_969,Bad Bunny,Salsa/Tropical,33,276,899286.0
+TRK-0970,Canción Track_970,Karol G,Pop/Indie,37,139,379858.0
+TRK-0971,Canción Track_971,Rosalía,Pop/Indie,58,265,70449.0
+TRK-0972,Canción Track_972,Los Prisioneros,,35,196,628525.0
+TRK-0973,Canción Track_973,Gepe,Reggaeton/Urbano,40,131,784233.0
+TRK-0974,Canción Track_974,Rosalía,Salsa/Tropical,54,270,538291.0
+TRK-0975,Canción Track_975,Cami,Pop/Indie,46,213,430575.0
+TRK-0976,Canción Track_976,Rosalía,Salsa/Tropical,34,205,309215.0
+TRK-0977,Canción Track_977,Bad Bunny,Reggaeton/Urbano,38,221,
+TRK-0978,Canción Track_978,Feid,Pop/Indie,57,167,492588.0
+TRK-0979,Canción Track_979,Bad Bunny,Reggaeton/Urbano,41,281,137150.0
+TRK-0980,Canción Track_980,Aitana,Salsa/Tropical,68,179,60961.0
+TRK-0981,Canción Track_981,Bad Bunny,Reggaeton/Urbano,96,253,
+TRK-0982,Canción Track_982,Duki,Pop/Indie,68,276,231444.0
+TRK-0983,Canción Track_983,Cami,Reggaeton/Urbano,99,125,198052.0
+TRK-0984,Canción Track_984,Aitana,,24,160,51014.0
+TRK-0985,Canción Track_985,Feid,Rock,56,256,47766.0
+TRK-0986,Canción Track_986,Karol G,Pop/Indie,20,140,430830.0
+TRK-0987,Canción Track_987,Gepe,Reggaeton/Urbano,47,291,290299.0
+TRK-0988,Canción Track_988,Rosalía,Reggaeton/Urbano,58,250,306975.0
+TRK-0989,Canción Track_989,Rosalía,Pop/Indie,98,180,1087005.0
+TRK-0990,Canción Track_990,Bad Bunny,Pop/Indie,21,217,234842.0
+TRK-0991,Canción Track_991,Rosalía,Rock,69,291,81185.0
+TRK-0992,Canción Track_992,Bad Bunny,Pop/Indie,22,200,38552.0
+TRK-0993,Canción Track_993,Karol G,Reggaeton/Urbano,91,206,823324.0
+TRK-0994,Canción Track_994,Gepe,Reggaeton/Urbano,77,210,149759.0
+TRK-0995,Canción Track_995,Aitana,Reggaeton/Urbano,80,243,575243.0
+TRK-0996,Canción Track_996,Feid,Pop/Indie,34,196,59160.0
+TRK-0997,Canción Track_997,Feid,Reggaeton/Urbano,49,259,1230429.0
+TRK-0998,Canción Track_998,Aitana,Pop/Indie,58,182,
+TRK-0999,Canción Track_999,Feid,Rock,68,154,
+TRK-1000,Canción Track_1000,Mon Laferte,Pop/Indie,92,202,201929.0
